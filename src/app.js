@@ -1,1 +1,1 @@
-hdlaFJDLÑW
+console.log('git checkout')
